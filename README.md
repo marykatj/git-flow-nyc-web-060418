@@ -6,7 +6,7 @@
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
 
-## Lauren Here:
+## Lauren Here:  
  
 (╯°□°）╯︵ ┻━┻
 
