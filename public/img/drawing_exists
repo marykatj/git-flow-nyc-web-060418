@@ -1,1 +1,1 @@
-puts "Drawing exists"
+file = File.open(my_drawing, "r")
