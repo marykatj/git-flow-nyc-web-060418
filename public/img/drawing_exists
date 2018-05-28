@@ -1,1 +1,1 @@
-file = File.open(my_drawing, "r")
+file = File.open(drawing_exists, "r")
